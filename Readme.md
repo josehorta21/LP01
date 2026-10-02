@@ -72,8 +72,6 @@
   npx jest --version
   ```
 
-- Take a screenshot of your terminal showing that `Jest` is installed. Save it in the `screenshot` folder.
-
 - Note: add `node_modules/` to a `.gitignore` file before you push
 
 ## Step 1: Review the Code
@@ -188,13 +186,6 @@ test("countVowels has vowels", () => {
 ```
 
 </details>
-
-## What to Submit
-
-1. Create and initialize a new GitHub repository.
-2. Commit and push your work to the repository.
-3. Make sure the repository is public. Private repositories will not receive credit.
-4. Submit the GitHub repository URL on Canvas.
 
 ## AI Transparency
 
